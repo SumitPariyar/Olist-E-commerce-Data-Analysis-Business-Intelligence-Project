@@ -39,7 +39,7 @@ Olist_Project/
 
 - **Python**: Data analysis, machine learning, and visualization
 - **Pandas & NumPy**: Data manipulation and numerical computing
-- **Scikit-learn**: Machine learning algorithms
+- **Scikit-learn**: Customer churn prediction model
 - **Matplotlib & Seaborn**: Data visualization
 - **Jupyter Notebooks**: Interactive analysis and documentation
 - **SQL**: Database queries and analysis

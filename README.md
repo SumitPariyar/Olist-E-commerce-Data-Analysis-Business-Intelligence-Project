@@ -121,9 +121,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Sumit Pariyar**
+**Project done by Sumit Pariyar**
 - GitHub: [@SumitPariyar](https://github.com/SumitPariyar)
-- Portfolio: [https://github.com/SumitPariyar](https://github.com/SumitPariyar)
 
 ## 🙏 Acknowledgments
 

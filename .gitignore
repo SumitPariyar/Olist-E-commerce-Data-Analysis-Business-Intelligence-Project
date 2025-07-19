@@ -130,8 +130,6 @@ dmypy.json
 
 # Data files (large CSV files)
 *.csv
-*.xlsx
-*.xls
 *.parquet
 *.h5
 *.hdf5

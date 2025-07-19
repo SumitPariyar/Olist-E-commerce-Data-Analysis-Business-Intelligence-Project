@@ -27,6 +27,8 @@
 ### **Data Formats**
 - **CSV** - Data storage and analysis
 - **Excel** - Initial data exploration and cleaning
+- **Power Query** - Data transformation and cleaning
+- **Power BI** - Business intelligence and advanced analytics
 
 ## 🎯 **Project Workflow**
 
@@ -42,7 +44,9 @@
 
 ### **Visualization & Reporting**
 1. **Matplotlib/Seaborn** - Statistical visualizations
-2. **Dashboard Creation** - Business insights presentation
+2. **Excel Dashboards** - Interactive business dashboards
+3. **Power BI** - Advanced business intelligence dashboards
+4. **Pivot Tables** - Data summarization and analysis
 
 ## 📋 **Skills Demonstrated**
 
@@ -60,7 +64,9 @@
 - ✅ Performance analysis
 
 ### **Tools Proficiency**
-- ✅ **Excel** - Data manipulation and analysis
+- ✅ **Excel** - Data manipulation, dashboards, and pivot tables
+- ✅ **Power Query** - Data transformation and cleaning
+- ✅ **Power BI** - Business intelligence and advanced analytics
 - ✅ **Python** - Programming and automation
 - ✅ **SQL** - Database management
 - ✅ **Jupyter** - Interactive development
@@ -70,6 +76,8 @@
 
 ### **Excel**
 - **Initial Data Exploration** - Quick data overview and cleaning
+- **Dashboard Creation** - Interactive business dashboards
+- **Pivot Tables** - Data summarization and analysis
 - **Business User Friendly** - Easy to share with stakeholders
 - **Data Validation** - Built-in data quality checks
 
@@ -77,6 +85,16 @@
 - **Scalability** - Handle large datasets efficiently
 - **Automation** - Reproducible analysis workflows
 - **Advanced Analytics** - Machine learning and statistical modeling
+
+### **Power BI**
+- **Advanced Analytics** - Interactive dashboards and reports
+- **Data Modeling** - Complex data relationships
+- **Business Intelligence** - Real-time insights and KPIs
+
+### **Power Query**
+- **Data Transformation** - Clean and transform data
+- **Data Integration** - Connect multiple data sources
+- **Automated Cleaning** - Reproducible data preparation
 
 ### **SQL**
 - **Data Retrieval** - Efficient querying of large datasets

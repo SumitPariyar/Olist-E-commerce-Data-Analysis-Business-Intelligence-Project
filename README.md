@@ -44,7 +44,9 @@ Olist_Project/
 - **Jupyter Notebooks**: Interactive analysis and documentation
 - **SQL**: Database queries and analysis
 - **PostgreSQL**: Database management
-- **Microsoft Excel**: Initial data exploration and cleaning
+- **Microsoft Excel**: Data exploration, dashboards, and pivot tables
+- **Power Query**: Data transformation and cleaning
+- **Power BI**: Business intelligence and advanced analytics
 
 ## 📊 Dataset Description
 

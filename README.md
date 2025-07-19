@@ -44,6 +44,7 @@ Olist_Project/
 - **Jupyter Notebooks**: Interactive analysis and documentation
 - **SQL**: Database queries and analysis
 - **PostgreSQL**: Database management
+- **Microsoft Excel**: Initial data exploration and cleaning
 
 ## 📊 Dataset Description
 

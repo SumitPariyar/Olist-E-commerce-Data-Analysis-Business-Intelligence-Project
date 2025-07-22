@@ -1,18 +1,7 @@
-top 10 insights queries from big_olist table
-
-
-
+TOP 10 insights queries from big_olist table
 
 create view  analysis as
 select * from olist_clean_analytics_table limit 1000;
-
-
-
-
-
-
-
-
 
 select * from analysis;
 
